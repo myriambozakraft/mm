@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myriambozakraft/mm.git/static/css/main.073c9b0a.css",
+    "main.js": "/myriambozakraft/mm.git/static/js/main.469874d0.js",
+    "static/js/787.0cac7fbf.chunk.js": "/myriambozakraft/mm.git/static/js/787.0cac7fbf.chunk.js",
+    "index.html": "/myriambozakraft/mm.git/index.html",
+    "main.073c9b0a.css.map": "/myriambozakraft/mm.git/static/css/main.073c9b0a.css.map",
+    "main.469874d0.js.map": "/myriambozakraft/mm.git/static/js/main.469874d0.js.map",
+    "787.0cac7fbf.chunk.js.map": "/myriambozakraft/mm.git/static/js/787.0cac7fbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.469874d0.js"
+  ]
+}
